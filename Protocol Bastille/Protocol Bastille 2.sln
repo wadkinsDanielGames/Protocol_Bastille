@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol Bastille 2", "Protocol Bastille 2.csproj", "{21B3BF9B-3328-C8C3-A05E-82DD2A0F20AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol Bastille 2.Editor", "Protocol Bastille 2.Editor.csproj", "{1BC70F13-E55C-D8F4-37E3-AD0D2A8F95D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B3BF9B-3328-C8C3-A05E-82DD2A0F20AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B3BF9B-3328-C8C3-A05E-82DD2A0F20AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B3BF9B-3328-C8C3-A05E-82DD2A0F20AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B3BF9B-3328-C8C3-A05E-82DD2A0F20AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC70F13-E55C-D8F4-37E3-AD0D2A8F95D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC70F13-E55C-D8F4-37E3-AD0D2A8F95D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC70F13-E55C-D8F4-37E3-AD0D2A8F95D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC70F13-E55C-D8F4-37E3-AD0D2A8F95D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
